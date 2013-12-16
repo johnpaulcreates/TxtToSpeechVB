@@ -1,0 +1,26 @@
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\bin\Debug\TextToSpeechVB.exe
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\bin\Debug\TextToSpeechVB.pdb
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\bin\Debug\TextToSpeechVB.xml
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.Form1.resources
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.Resources.resources
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.vbproj.GenerateResource.Cache
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.exe
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.xml
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.pdb
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\bin\Debug\TextToSpeechVB.exe.manifest
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\bin\Debug\TextToSpeechVB.application
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.exe.manifest
+C:\Users\lobo\AppData\Local\Temporary Projects\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.application
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.exe
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.xml
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.pdb
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\bin\Debug\TextToSpeechVB.exe.manifest
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\bin\Debug\TextToSpeechVB.application
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\bin\Debug\TextToSpeechVB.exe
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\bin\Debug\TextToSpeechVB.pdb
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\bin\Debug\TextToSpeechVB.xml
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.Form1.resources
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.Resources.resources
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.vbproj.GenerateResource.Cache
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.exe.manifest
+D:\Common\Dropbox\Projects\TextToSpeech\vb\TxtToSpeechVB\TextToSpeechVB\TextToSpeechVB\obj\x86\Debug\TextToSpeechVB.application
